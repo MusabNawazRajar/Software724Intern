@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "987156182780",
+    "firebase_url": "https://smart-baby-cradle-37a31-default-rtdb.firebaseio.com",
+    "project_id": "smart-baby-cradle-37a31",
+    "storage_bucket": "smart-baby-cradle-37a31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987156182780:android:0298959a57c8b72bd8c979",
+        "android_client_info": {
+          "package_name": "com.musab_nawaz.SBCexpo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC49ciG8GBrIcSQGw8sJWYgdvDCPwUM4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987156182780:android:2fd59103b25a8758d8c979",
+        "android_client_info": {
+          "package_name": "com.sbc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC49ciG8GBrIcSQGw8sJWYgdvDCPwUM4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987156182780:android:8c3ecc17c9dce6ddd8c979",
+        "android_client_info": {
+          "package_name": "com.smartbabycradle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC49ciG8GBrIcSQGw8sJWYgdvDCPwUM4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
